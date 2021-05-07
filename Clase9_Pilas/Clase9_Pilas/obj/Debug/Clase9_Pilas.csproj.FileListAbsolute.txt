@@ -1,0 +1,7 @@
+C:\Users\Jefferson Rueda\source\repos\Clase9_Pilas\Clase9_Pilas\bin\Debug\Clase9_Pilas.exe.config
+C:\Users\Jefferson Rueda\source\repos\Clase9_Pilas\Clase9_Pilas\bin\Debug\Clase9_Pilas.exe
+C:\Users\Jefferson Rueda\source\repos\Clase9_Pilas\Clase9_Pilas\bin\Debug\Clase9_Pilas.pdb
+C:\Users\Jefferson Rueda\source\repos\Clase9_Pilas\Clase9_Pilas\obj\Debug\Clase9_Pilas.csprojAssemblyReference.cache
+C:\Users\Jefferson Rueda\source\repos\Clase9_Pilas\Clase9_Pilas\obj\Debug\Clase9_Pilas.csproj.CoreCompileInputs.cache
+C:\Users\Jefferson Rueda\source\repos\Clase9_Pilas\Clase9_Pilas\obj\Debug\Clase9_Pilas.exe
+C:\Users\Jefferson Rueda\source\repos\Clase9_Pilas\Clase9_Pilas\obj\Debug\Clase9_Pilas.pdb
